@@ -1,13 +1,9 @@
-body
+#body
 {
-<<<<<<< HEAD
     background: #1e1f24;
     color: rgb(0, 0, 0);
-=======
-
     background: #1e1f24;
     color: #333;
->>>>>>> header
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -17,11 +13,6 @@ body
 
 #cabecera
 {
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> header
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
@@ -30,20 +21,12 @@ body
     padding: 0.5em;
 }
 
-<<<<<<< HEAD
 #cabecera #logo
-=======
-# cabecera #logo
->>>>>>> header
 {
     width: 20px;
     vertical-align: middle;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> header
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -70,10 +53,6 @@ body
     padding: 1em;
 
 }
-<<<<<<< HEAD
-g
-=======
-
 #footer
 {
     background: #777;
@@ -81,4 +60,3 @@ g
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> header
