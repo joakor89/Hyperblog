@@ -51,5 +51,9 @@ body
     background: #777;
     color: white;
     text-align: center;
+<<<<<<< HEAD
     padding: o.5em;
+=======
+    padding: 0.5em;
+>>>>>>> d4f7121b2e2a2e8ca7a2060156a4879afdf989aa
 }
